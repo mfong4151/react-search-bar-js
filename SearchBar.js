@@ -1,5 +1,5 @@
 import React, { useRef, useState } from 'react'
-import '../index.css'
+import '../serachbar.css'
 import DropDownModal from './DropDownModal'
 
 

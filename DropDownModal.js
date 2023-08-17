@@ -1,6 +1,6 @@
 import React from 'react'
 import DropDownItem from './DropDownItem'
-import '../index.css'
+import '../searchbar.css'
 
 
 const DropDownModal = ({trie, searchVal, setSearchVal,barRef}) => {
